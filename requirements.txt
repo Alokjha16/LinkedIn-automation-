@@ -1,0 +1,20 @@
+# LinkedIn Gmail Automation - Python Dependencies
+# Install: pip install -r requirements.txt
+
+# Browser Automation
+selenium>=4.15.0
+webdriver-manager>=4.0.1
+
+# Gmail API
+google-api-python-client>=2.100.0
+google-auth-httplib2>=0.1.1
+google-auth-oauthlib>=1.1.0
+
+# Data Processing
+pandas>=2.1.0
+
+# Environment Variables
+python-dotenv>=1.0.0
+
+# Optional: Streamlit Dashboard
+# streamlit>=1.28.0

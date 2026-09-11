@@ -1,0 +1,44 @@
+# Environment
+.env
+.env.*
+
+# Credentials
+credentials/
+
+# Candidate / client private data
+candidate_data.json
+
+# Generated outputs
+outputs/
+screenshots/
+
+# Private resumes/templates
+resumes/
+templates/
+
+# Chrome session profiles
+chrome-profile/
+chrome_profile/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+dist/
+build/
+
+# Logs
+*.log
+automation.log
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Documents
+*.pdf
+*.docx
