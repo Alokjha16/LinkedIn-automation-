@@ -1,4 +1,4 @@
-cbmnsaoiuyruyoeuoqnmbcaslkyuolkjhfrom src.resume_customizer import customize_resume
+qwpocbmnsaoiuyruyoeuoqnmbcaslkyuolkjhfrom src.resume_customizer import customize_resume
 
 post_text = """
 Looking for Java Developer with Spring Boot, Microservices, AWS, SQL,
